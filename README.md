@@ -1,5 +1,8 @@
 # QuadriumVirato
 Description
+
+
+
 QuadrumviratoApp allows you to discover new recipes and save the ones you like the most through the use of Edamam API. All of this has been made by using the following technologies:
 
 CoreData to store the recipes
